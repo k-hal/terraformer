@@ -37,7 +37,7 @@ require (
 	github.com/aws/aws-sdk-go-v2/service/autoscaling v1.3.1
 	github.com/aws/aws-sdk-go-v2/service/batch v1.3.1
 	github.com/aws/aws-sdk-go-v2/service/budgets v1.9.0
-	github.com/aws/aws-sdk-go-v2/service/cloud9 v1.1.3
+	github.com/aws/aws-sdk-go-v2/service/cloud9 v1.16.8
 	github.com/aws/aws-sdk-go-v2/service/cloudformation v1.3.0
 	github.com/aws/aws-sdk-go-v2/service/cloudfront v1.3.0
 	github.com/aws/aws-sdk-go-v2/service/cloudhsmv2 v1.13.8
